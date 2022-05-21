@@ -184,7 +184,6 @@ function nuevaCita(e) {
     edicion = false
   }
   else{
-    console.log('modo cre')
     //generar id
     objCita.id = Date.now();
     //creando una nueva cita
